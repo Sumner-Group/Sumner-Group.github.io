@@ -1,2 +1,2 @@
-# Sumner-Group.github.io
+# Future Sumner Research Group Website
 Changed theme
